@@ -25,9 +25,6 @@ This project analyzes a retail sales dataset to identify revenue trends, top-per
 
 ### Visualizations
 
-![Region Sales](sales-analytics-dashboard/Visuals/region_sales_chart.png)
-## Visualizations
-
 ### Sales by Region
 ![Sales by Region](sales-analytics-dashboard/Visuals/region_sales_chart.png)
 
