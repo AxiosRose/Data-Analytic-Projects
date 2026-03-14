@@ -226,7 +226,8 @@ This project answers several common business intelligence questions:
 
 ### Revenue by Region
 
-![Revenue by Region](visuals/revenue_by_region.png)
+<h3>Revenue by Region</h3>
+<img src="visuals/revenue_by_region.png" width="700">
 
 This chart shows total revenue generated in each geographic region. The West and East regions contribute the largest share of total sales.
 
@@ -234,14 +235,16 @@ This chart shows total revenue generated in each geographic region. The West and
 
 ### Sales by Category
 
-![Sales by Category](visuals/sales_by_category.png)
+<h3>Sales by Category</h3>
+<img src="visuals/sales_by_category.png" width="700">
 
 This chart compares revenue contributions across product categories. Technology and Furniture categories generate a large share of overall sales, indicating that higher-value products drive a significant portion of company revenue. Office Supplies contributes a smaller share of revenue, which may reflect lower individual product prices despite potentially higher transaction volume.
 ---
 
 ### Top 10 Customers by Sales
 
-![Top Customers](visuals/top_customers.png)
+<h3>Top Customers</h3>
+<img src="visuals/top_customers.png" width="700">
 
 This visualization highlights the customers who generate the highest total revenue for the business. A relatively small number of customers account for a disproportionately large share of sales, a common pattern in many retail and B2B environments. Identifying these high-value customers is important for customer retention strategies, personalized marketing efforts, and long-term relationship management.
 
@@ -249,7 +252,8 @@ This visualization highlights the customers who generate the highest total reven
 
 ### Top 10 Products by Sales
 
-![Top Products](visuals/top_products.png)
+<h3>Top Products</h3>
+<img src="visuals/top_products.png" width="700">
 
 This chart identifies the products generating the highest total revenue. Premium office equipment and technology products appear prominently among the top sellers. The Canon imageCLASS 2200 Advanced Copier stands out as the highest-revenue product, significantly outperforming other items. This indicates strong demand for high-value equipment within the dataset.
 
@@ -257,7 +261,8 @@ This chart identifies the products generating the highest total revenue. Premium
 
 ### Monthly Sales Trend
 
-![Monthly Sales Trend](visuals/monthly_sales_trend.png)
+<h3>Monthly Sales Trend</h3>
+<img src="visuals/monthly_sales_trend.png" width="700">
 
 The monthly sales trend visualizes how revenue changes over time. Sales fluctuate across different months, suggesting potential seasonal purchasing patterns. Understanding these trends can help businesses improve demand forecasting, optimize inventory planning, and schedule marketing campaigns during periods of higher consumer activity.
 
