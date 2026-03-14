@@ -1,21 +1,36 @@
-# Data-Analytic-Projects
-Spencer Rosenberry
-Data Analytics | Python | SQL | Tableau | Business Intelligence
+# Data Analytics Portfolio
 
-Computer Science student specializing in Data Analytics with experience analyzing operational datasets, building dashboards, and generating business insights. My projects focus on transforming raw data into actionable recommendations using Python, SQL, and data visualization tools.
+Spencer Rosenberry  
+Computer Science – Data Analytics  
 
-Technical Tools
+Python | SQL | Tableau | Business Intelligence
 
-Python (Pandas, NumPy)
-SQL
-Tableau / Power BI
-Excel
-Data Cleaning and Validation
-Business Intelligence Reporting
+I analyze operational datasets and build dashboards that transform raw data into actionable insights.
 
-Portfolio Projects
+---
 
-• Sales Performance Dashboard
-• Healthcare Data Analysis
-• Customer Churn Analysis
-• SQL Business Intelligence Analysis
+# Projects
+
+## Sales Analytics Dashboard
+
+Python | Pandas | Data Visualization
+
+This project analyzes a retail sales dataset to identify revenue trends, top-performing products, and regional sales performance.
+
+### Key Insights
+
+• The West region generated the highest total revenue  
+• Technology products drove the largest category sales  
+• Consumer customers accounted for the majority of revenue  
+
+### Visualizations
+
+![Region Sales](sales-analytics-dashboard/Visuals/region_sales_chart.png)
+
+---
+
+## Upcoming Projects
+
+• Customer Churn Prediction  
+• Healthcare Data Analysis  
+• SQL Business Intelligence Dashboard
