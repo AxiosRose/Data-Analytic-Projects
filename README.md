@@ -277,3 +277,17 @@ The monthly sales trend visualizes how revenue changes over time. Sales fluctuat
 The SQL queries used to generate business KPIs are stored in:
 sql/business_kpis.sql
 
+
+These queries calculate important business metrics including:
+
+- Total revenue
+- Revenue by region
+- Revenue by category
+- Top customers by sales
+- Top products by sales
+- Monthly sales trends
+
+---
+
+## Project Structure
+
