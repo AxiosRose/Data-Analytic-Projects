@@ -90,16 +90,16 @@ Random Forest classifier achieved approximately **75.9% accuracy** predicting cu
 ## Visualizations
 
 ### Churn Distribution
-![Churn Distribution](visuals/churn_distribution.png)
+![Churn Distribution](customer-churn-analysis/visuals/churn_distribution.png)
 
 ### Churn by Contract Type
-![Contract Churn](visuals/churn_contract.png)
+![Contract Churn](customer-churn-analysis/visuals/churn_contract.png)
 
 ### Monthly Charges vs Churn
-![Charges vs Churn](visuals/monthly_charges_churn.png)
+![Charges vs Churn](customer-churn-analysis/visuals/monthly_charges_churn.png)
 
 ### Feature Importance
-![Feature Importance](visuals/feature_importance.png)
+![Feature Importance](customer-churn-analysis/visuals/feature_importance.png)
 
 ## Author
 Spencer Rosenberry  
